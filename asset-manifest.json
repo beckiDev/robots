@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/robots/static/css/main.3866c979.chunk.css",
+    "main.js": "/robots/static/js/main.2b451acb.chunk.js",
+    "main.js.map": "/robots/static/js/main.2b451acb.chunk.js.map",
+    "runtime-main.js": "/robots/static/js/runtime-main.04681c58.js",
+    "runtime-main.js.map": "/robots/static/js/runtime-main.04681c58.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/robots/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.f5f51246.chunk.js": "/robots/static/js/2.f5f51246.chunk.js",
+    "static/js/2.f5f51246.chunk.js.map": "/robots/static/js/2.f5f51246.chunk.js.map",
+    "index.html": "/robots/index.html",
+    "precache-manifest.e62b1194a04f6b12ffaa3be402912d89.js": "/robots/precache-manifest.e62b1194a04f6b12ffaa3be402912d89.js",
+    "service-worker.js": "/robots/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/robots/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.3866c979.chunk.css.map": "/robots/static/css/main.3866c979.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04681c58.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.f5f51246.chunk.js",
+    "static/css/main.3866c979.chunk.css",
+    "static/js/main.2b451acb.chunk.js"
+  ]
+}
